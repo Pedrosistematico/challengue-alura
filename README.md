@@ -1,15 +1,18 @@
+# 🎁 Juego del Amigo Secreto  
 
-# JUEGO DEL AMIGO SECRETO
+Este juego consiste en ingresar los nombres de los participantes para luego realizar un sorteo y asignar un amigo secreto a cada uno.  
 
-- **Este juego trata de colocar una cierta cantidad de nombres de los participantes, para que luego seran sorteados.**
+## ✏️ ¿Cómo funciona?  
 
-> En el cuadro gigante podras ingresar los nombres de todos los participantes del
-> sorteo, en caso de no ingresar un nombre mostrara una alerta de que el cuadro este vacio
+1. **Añadir nombres:**  
+   - Escribe los nombres de los participantes en el cuadro de texto.  
+   - Si intentas agregar un nombre sin escribir nada, aparecerá una alerta indicándolo.  
+   - Cada nombre agregado se guardará en una lista y se mostrará debajo del cuadro.  
 
-> Al momento de usar el boton añadir, este hace que automaticamente guarde todos los nombres en una
-> lista y que se muestres abajo del cuadro.
+2. **Realizar el sorteo:**  
+   - Una vez agregados todos los nombres, presiona el botón de **"Sortear amigo"**.  
+   - El sistema asignará aleatoriamente un amigo secreto a cada participante.  
+   - A medida que se vayan sorteando los nombres, estos desaparecerán de la lista.  
+   - Cuando no queden más nombres, el sistema indicará que la lista está vacía.  
 
-> Al momento de terminar de añadir, pasaran al boton de sorteo el que se encargara de sortear
-> cada miembro para cada uno de los amigos, y automaticamente este ira quitando uno por uno de la lista y al no contener nada este indicara que la lista esta vacio
-
-
+¡Diviértete jugando con tus amigos! 🎉
